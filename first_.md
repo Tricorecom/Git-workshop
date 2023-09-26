@@ -1,3 +1,3 @@
 # Make your first pr
 
-MohiT
+Mohit Bisht
