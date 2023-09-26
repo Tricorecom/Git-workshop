@@ -45,20 +45,20 @@ Hacktoberfest is an annual celebration of open source during the month of Octobe
 
 ## Workshop Materials
 
-### Workshop Notes
+### Notes
 
-- [Git and GitHub Basics](workshop-notes/git-and-github-basics.md)
-- [Open Source Contribution Guide](workshop-notes/open-source-contribution-guide.md)
-- [Hacktoberfest Quick Start](workshop-notes/hacktoberfest-quick-start.md)
+- [Git and GitHub Basics](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Open Source Contribution](https://goodfirstissues.com/)
+- [Hacktoberfest Quick Start](https://hacktoberfest.com/)
 
 ### Meeting Images
 
-- ![Workshop Kick-off](meeting-images/workshop-kick-off.jpg)
-- ![Git and GitHub Deep Dive](meeting-images/git-github-deep-dive.jpg)
-- ![Collaboration in Action](meeting-images/collaboration-in-action.jpg)
+![WhatsApp Image 2023-09-24 at 22 32 37](https://github.com/Tricorecom/Git-workshop/assets/120316966/c385200b-ec5a-4dad-aad1-5ae3a38862f4)
+![WhatsApp Image 2023-09-24 at 22 32 39](https://github.com/Tricorecom/Git-workshop/assets/120316966/04497192-3fe7-4504-8cad-ce4cdc04e703)
+
 
 ## Join the Discussion
 
-Let's connect and collaborate! Join our **WhatsApp group** by clicking on this [invitation link](#). Here, you can ask questions, share your progress, and network with fellow developers.
+Let's connect and collaborate! Join our **WhatsApp group** by clicking on this [invitation link](https://chat.whatsapp.com/GLVbUGGLoLdJxSYpEHjbtj). Here, you can ask questions, share your progress, and network with fellow developers.
 
 Happy hacking, and let's make this Hacktoberfest memorable! 🎉👩‍💻👨‍💻
